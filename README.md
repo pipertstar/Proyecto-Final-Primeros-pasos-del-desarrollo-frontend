@@ -6,7 +6,7 @@ El siguiente repositorio refleja el trabajo realizado para el proyecto final del
 Se trata de un curriculum vitae modelo, que busca aplicar los conocimientos adquiridos en HTML (HyperText Markup Language), CSS (Cascading Style Sheets) y JS (JavaScript) utilizando los recursos brindados.
 Se incluyeron links a redes como github o linkedin a modo de contacto con el individuo.
 
-El proyecto se subió a GitHub Pages: https://github.com/pipertstar/Proyecto-Final-Primeros-pasos-del-desarrollo-frontend.git
+El proyecto se subió a GitHub Pages: https://github.com/pipertstar/TP--Ticmas--GGispert.git
 
 ## Descripción del proyecto
 Se buscó desarrollar un trabajo donde se apliquen distintos tipos de etiquetas HTML que mejoren la semántica del documento y que incorpore la información básica de un curriculum vitae (tales como redes, información personal, experiencia laboral, entre otros).
